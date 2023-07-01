@@ -1,0 +1,37 @@
+{
+    "image": [
+      ".jpeg",
+      ".jpg",
+      ".png",
+      ".gif",
+      ".tiff",
+      ".bmp",
+      ".webp",
+      ".svg"
+    ],
+    "document": [
+      ".doc",
+      ".docx",
+      ".pdf",
+      ".txt",
+      ".rtf",
+      ".odt"
+    ],
+    "video": [
+      ".mp4",
+      ".mov",
+      ".avi",
+      ".mkv",
+      ".flv",
+      ".wmv"
+    ],
+    "audio": [
+      ".mp3",
+      ".wav",
+      ".flac",
+      ".aac",
+      ".ogg",
+      ".wma"
+    ]
+  }
+  
